@@ -42,4 +42,4 @@ This section contains **8 Colab notebooks**, covering **Easy, Intermediate, Adva
 ## 🎬 Video Demonstrations  
 Each experiment is accompanied by a **detailed walkthrough video**, explaining **concepts, code, and execution**.  
 - 🔗 **Part A - Teachabale Machine:** [📺 Watch Here](https://youtu.be/DJSLb3BNzq4)  
-- 🔗 **Part B - Kera Hub:** [📺 Watch Here]()  
+- 🔗 **Part B - Kera Hub:** [📺 Watch Here](https://youtu.be/Eqw3O6FaTf8)  
