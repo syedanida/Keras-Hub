@@ -22,20 +22,20 @@ In this section, we explore three unique **Teachable Machine models**, leveragin
 This section contains **8 Colab notebooks**, covering **Easy, Intermediate, Advanced, and Expert** levels for both **text and image tasks**. Each notebook implements **small variations** of existing Keras-Hub examples, adding unique modifications.  
 
 ### 🖼️ Image-Based Models  
-| Level | Experiment | Description | Colab Link | 
-|--------|------------|-------------|------------|
-| ✅ **Easy** | Image Classification with Transfer Learning | Modify a pre-trained image classifier | [🔗 Colab](https://github.com/syedanida/Keras-Hub/blob/main/Keras-examples/image-based-model/1_Mobilenetv2Transfer.ipynb) | 
-| 🚀 **Intermediate** | Style Transfer with Deep Learning | Apply artistic styles to images using CNNs | [🔗 Colab](https://github.com/syedanida/Keras-Hub/blob/main/Keras-examples/image-based-model/2_Fine_TuningEfficientNet.ipynb) | 
-| 🔥 **Advanced** | Object Detection with Faster R-CNN | Detect multiple objects in real-time images | [🔗 Colab](https://github.com/syedanida/Keras-Hub/blob/main/Keras-examples/image-based-model/3_ImageSegmentationwithDeepLabV3%2B.ipynb) | 
-| 🏆 **Expert** | GANs for Image Generation | Train a GAN to generate new images | [🔗 Colab](https://github.com/syedanida/Keras-Hub/blob/main/Keras-examples/image-based-model/4_CycleGAN_Images_Generation.ipynb) | 
+| Level | Experiment | Description | 
+|--------|------------|-------------|
+| ✅ **Easy** | Image Classification with Transfer Learning | Modify a pre-trained image classifier | 
+| 🚀 **Intermediate** | Style Transfer with Deep Learning | Apply artistic styles to images using CNNs | 
+| 🔥 **Advanced** | Object Detection with Faster R-CNN | Detect multiple objects in real-time images | 
+| 🏆 **Expert** | GANs for Image Generation | Train a GAN to generate new images |
 
 ### 📜 Text-Based Models  
-| Level | Experiment | Description | Colab Link | 
-|--------|------------|-------------|------------|
-| ✅ **Easy** | Text Classification with Pretrained Embeddings | Classify IMDB reviews using Universal Sentence Encoder (USE) | [🔗 Colab](https://github.com/syedanida/Keras-Hub/blob/main/Keras-examples/text-based-models/5_SentimentClassification.ipynb) |
-| 🚀 **Intermediate** | Named Entity Recognition (NER) | Identify names, locations, and entities in text | [🔗 Colab](https://github.com/syedanida/Keras-Hub/blob/main/Keras-examples/text-based-models/6_Fine_TuningDistilBERT.ipynb) | 
-| 🔥 **Advanced** | Text Summarization with Transformer Models | Generate short summaries from long articles | [🔗 Colab](https://github.com/syedanida/Keras-Hub/blob/main/Keras-examples/text-based-models/7_AdvancedMulti_TaskNLPwithBERT.ipynb) | 
-| 🏆 **Expert** | Question Answering with BERT | Fine-tune a BERT model for Q&A tasks | [🔗 Colab](https://github.com/syedanida/Keras-Hub/blob/main/Keras-examples/text-based-models/8_CustomTransformerModelforTextClassification.ipynb) | 
+| Level | Experiment | Description | 
+|--------|------------|-------------|
+| ✅ **Easy** | Text Classification with Pretrained Embeddings | Classify IMDB reviews using Universal Sentence Encoder (USE) | 
+| 🚀 **Intermediate** | Named Entity Recognition (NER) | Identify names, locations, and entities in text | 
+| 🔥 **Advanced** | Text Summarization with Transformer Models | Generate short summaries from long articles | 
+| 🏆 **Expert** | Question Answering with BERT | Fine-tune a BERT model for Q&A tasks | 
 
 ---
 
