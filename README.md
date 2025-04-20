@@ -10,11 +10,11 @@ This repository showcases hands-on experiments using **Google's Teachable Machin
 ## 📌 Part A: Teachable Machine Experiments  
 In this section, we explore three unique **Teachable Machine models**, leveraging **Google's no-code ML platform**.  
 
-| Experiment | Description | Demo Link | 
-|------------|-------------|-----------|
-| 📝 **Text Classification** | Train a model to classify different text inputs using Teachable Machine | [🔗 Demo](#) | 
-| 🖼️ **Image Recognition** | Build an image classifier using custom images and fine-tuned layers | [🔗 Demo](#) |
-| 📹 **Video Action Detection** | Detect and classify actions in videos using Teachable Machine | [🔗 Demo](#) |
+| Experiment | Description | 
+|------------|-------------|
+| 📝 **Text Classification** | Train a model to classify different text inputs using Teachable Machine |
+| 🖼️ **Image Recognition** | Build an image classifier using custom images and fine-tuned layers |
+| 📹 **Video Action Detection** | Detect and classify actions in videos using Teachable Machine |
  
 ---
 
@@ -41,5 +41,5 @@ This section contains **8 Colab notebooks**, covering **Easy, Intermediate, Adva
 
 ## 🎬 Video Demonstrations  
 Each experiment is accompanied by a **detailed walkthrough video**, explaining **concepts, code, and execution**.  
-- 🔗 **Part A Video Playlist:** [📺 Watch Here](#)  
-- 🔗 **Part B Video Playlist:** [📺 Watch Here](#)  
+- 🔗 **Part A - Teachabale Machine:** [📺 Watch Here](https://youtu.be/DJSLb3BNzq4)  
+- 🔗 **Part B - Kera Hub:** [📺 Watch Here]()  
